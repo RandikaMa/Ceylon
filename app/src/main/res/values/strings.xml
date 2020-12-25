@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Ceylon</string>
+    <string name="todo">TODO</string>
+    <string name="ceylon_shop">Ceylon Shop</string>
+    <string name="nation_wide_shopping_app">Nation Wide Shopping App</string>
+    <string name="hello">Hello</string>
+    <string name="name">Name</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="emai">Emai</string>
+
+    <string name="phone">Phone</string>
+
+    <string name="admin">Admin</string>
+    <string name="user">User</string>
+
+    <string name="admin_home">Admin home</string>
+    <string name="sign_in">Sign In</string>
+
+    <string name="sign_up">Sign Up</string>
+    <string name="classic">Classic</string>
+
+    <string name="indonesian_food">Indonesian Food</string>
+    <string name="search">Search...</string>
+    <string name="popular_this_week">Popular this Week</string>
+    <string name="recommened_for_you">Recommened for You</string>
+    <string name="all_menu_items">All Menu Items</string>
+
+    <string name="_2_3">2.3</string>
+    <string name="_199">199</string>
+    <string name="nasi_padang_is_a_padang_steamed_rice_served_with_various_choices_of_pre_cooked_dishes_originated_from_west_sumatra_indonesia_it_is_known_across_indonesia_as_nasi_padang_after_the_city_of_padang_the_capital_of_west_sumatra_province">Nasi Padang is a Padang steamed rice served with various choices of pre-cooked dishes originated from West Sumatra, Indonesia. It is known across Indonesia as Nasi Padang, after the city of Padang the capital of West Sumatra province.</string>
+    <string name="add_to_cart">Add to cart</string>
+
+    <string name="_3_9">3.9</string>
+
+    <string name="_166">166</string>
+    <string name="nasi_padang">Nasi Padang</string>
+    <string name="rendang">Rendang</string>
+    <string name="_4_5">4.5</string>
+    <string name="_160">160</string>
+    <string name="_45_mins">45 mins</string>
+    <string name="free_delivery">Free Delivery</string>
+    <string name="textview" />
+
+
+    <string name="order_placed_successfully">Order placed successfully.</string>
+    <string name="success">Success!</string>
+    <string name="thank_you">Thank you.</string>
+    <string name="ok">OK</string>
+    <string name="foodfat">FoodFat</string>
+    <string name="fat">Fat:</string>
+    <string name="fooddescription">FoodDescription</string>
+    <string name="description">Description:</string>
+    <string name="foodsodium">FoodSodium</string>
+    <string name="sodium">Sodium:</string>
+    <string name="protein">Protein:</string>
+
+
+    <string name="foodprotein">FoodProtein</string>
+    <string name="foodcalories">FoodCalories</string>
+    <string name="calories">Calories:</string>
+    <string name="foodprice">FoodPrice</string>
+    <string name="price">Price:</string>
+    <string name="foodtitle">FoodTitle</string>
+    <string name="title">Title:</string>
+    <string name="ez">Ez</string>
+    <string name="visa">Visa</string>
+    <string name="cash">Cash</string>
+    <string name="select_order_type">Select Order Type</string>
+    <string name="_0_0">0.0</string>
+    <string name="total_price">Total Price:</string>
+    <string name="_0">0</string>
+    <string name="cartfoodtitle">CartFoodTitle</string>
+
+    <string name="cartfoodprice">CartFoodPrice</string>
+
+    <string name="order">Order</string>
+    <string name="submit_your_details">Submit Your Details?</string>
+    <string name="respons">Respons</string>
+    <string name="cancel">Cancel</string>
+    <string name="orders">Orders</string>
+    <string name="delete_items">Delete Items</string>
+    <string name="update_items">Update Items</string>
+    <string name="add_items">Add Items</string>
+    <string name="calendar">Calendar</string>
+    <string name="users">Users</string>
+
+
+
+</resources>
